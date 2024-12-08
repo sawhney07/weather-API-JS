@@ -13,4 +13,5 @@ To run the application, follow these steps:
 1. Run these commands in the root directory of the project:
 - npm install
 - npm run dev
+2. Update the app to take your new OpenWeather API key.
 2. Open your web browser and navigate to http://localhost:5173 to access the weather app.
